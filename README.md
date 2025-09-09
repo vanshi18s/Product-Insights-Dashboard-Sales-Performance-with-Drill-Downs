@@ -4,7 +4,7 @@
 
 This dataset contains data of 1,000+ Amazon products, including details such as product IDs, categories, prices, discounts, ratings, reviews, and user information.
 
-Key Features:
+# Key Features:
 
 product_id, product_name, category
 
