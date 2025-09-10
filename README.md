@@ -19,11 +19,23 @@ about_product, img_link, product_link
 
 # Major Files:
 
-# 1. amazon.csv
-# 2. preprocessing.ipynb
-# 3. cleaned_data_amazon.csv
-# 4. EDA_DataFamiliarisation.ipynb
-# 5. Recommendation.ipynb
-# 6. SentimentAnalysis
-# 7. Dashboard
-# 8. Report.pdf
+# 1. amazon.csv :
+original dataset provided based on which recommendations and conclusions have been made.
+
+# 2. preprocessing.ipynb:
+cleaned and orgainsed the data with suitable formatting.
+
+# 3. cleaned_data_amazon.csv:
+contains the cleaned data that was fed to ML model and used to make dashboard too.
+
+# 4. EDA_DataFamiliarisation.ipynb:
+helped to get a beeter idea on what the data looks like and what story it tells.
+
+# 5. Recommendation.ipynb:
+contains a collaborative filtering approach item based model to recommend some new products to various users present in the data.
+
+# 6. AmazonDashboard.pbix:
+consist of 4 pages that give full detailed visualisations and insights in an interactive form.
+
+# 8. Amazon Report.docx: 
+consist the suggestions and summary generated.
